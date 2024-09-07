@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=883d8f11_002D45b5_002D4a50_002D83c6_002Ddaba3bac72fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCategory_WithValidParameters_ResultObjectValidState" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::68E058AF-1154-465F-AC58-22312149E64F::net8.0::clean_architecture_csharp.Domain.Tests.CategoryUnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::68E058AF-1154-465F-AC58-22312149E64F::net8.0::clean_architecture_csharp.Domain.Tests.ProductUnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7d82b1c_002Ddc05_002D48b7_002D80b9_002Dbb0144d87654/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CategoryUnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::68E058AF-1154-465F-AC58-22312149E64F::net8.0::clean_architecture_csharp.Domain.Tests.CategoryUnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::68E058AF-1154-465F-AC58-22312149E64F::net8.0::clean_architecture_csharp.Domain.Tests.ProductUnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

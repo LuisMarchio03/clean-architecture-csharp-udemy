@@ -1,0 +1,11 @@
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\bin\Debug\net8.0\clean-architecture-csharp.IoC.deps.json
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\bin\Debug\net8.0\clean-architecture-csharp.IoC.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\bin\Debug\net8.0\clean-architecture-csharp.IoC.pdb
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\refint\clean-architecture-csharp.IoC.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\clean-architecture-csharp.IoC.pdb
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\clean-architecture-csharp.IoC\obj\Debug\net8.0\ref\clean-architecture-csharp.IoC.dll

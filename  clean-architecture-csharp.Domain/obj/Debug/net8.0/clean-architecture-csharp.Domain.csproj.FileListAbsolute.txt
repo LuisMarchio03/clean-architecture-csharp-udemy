@@ -1,0 +1,11 @@
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\bin\Debug\net8.0\clean-architecture-csharp.Domain.deps.json
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\bin\Debug\net8.0\clean-architecture-csharp.Domain.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\bin\Debug\net8.0\clean-architecture-csharp.Domain.pdb
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\refint\clean-architecture-csharp.Domain.dll
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\clean-architecture-csharp.Domain.pdb
+C:\Users\luis_\RiderProjects\clean-architecture-csharp\ clean-architecture-csharp.Domain\obj\Debug\net8.0\ref\clean-architecture-csharp.Domain.dll
